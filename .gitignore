@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+frontend/.dart_tool/
+frontend/.packages
+frontend/build/
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Environment
+.env
+frontend/.env
+backend/.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build outputs
+build/
+frontend/build/
+frontend/android/app/build/
+frontend/ios/build/
+frontend/web/build/
