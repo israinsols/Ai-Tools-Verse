@@ -22,6 +22,15 @@ A Flutter-based AI tools directory app with payments, notifications, and admin p
 | Payments | Stripe (test mode) |
 | Storage | In-memory (backend), Hive (frontend) |
 
+## 📸 Screenshots
+<p align="center">
+  <img src="screenshots/ss1.jpeg" width="220"/>
+  <img src="screenshots/ss2.jpeg" width="220"/>
+  <img src="screenshots/ss3.jpeg" width="220"/>
+  <img src="screenshots/ss4.jpeg" width="220"/>
+</p>
+
+
 ## Project Structure
 
 ```
